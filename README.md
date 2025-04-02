@@ -69,5 +69,12 @@ main.py
 - View interactive plots for ingredient relationships.
 
 - Receive ingredient-based recommendations.
+
+## Visualization
+
+Below is an example of the interactive ingredient similarity visualization:
+
+  ![Ingredient Similarity Scatter Plot](visualizations.png)
+
    
 
