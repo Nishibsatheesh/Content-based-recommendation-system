@@ -74,7 +74,7 @@ main.py
 
 Below is an example of the interactive ingredient similarity visualization:
 
-  ![Ingredient Similarity Scatter Plot]([Scatter_plot.png](https://github.com/Nishibsatheesh/Content-based-recommendation-system/blob/main/visualizations/Scatter_plot.png?raw=true))
+  ![Ingredient Similarity Scatter Plot](https://github.com/Nishibsatheesh/Content-based-recommendation-system/blob/main/visualizations/Scatter_plot.png?raw=true)
 
 Scatter plot with hover tool
 
