@@ -76,5 +76,9 @@ Below is an example of the interactive ingredient similarity visualization:
 
   ![Ingredient Similarity Scatter Plot](visualizations.png)
 
+Scatter plot with hover tool
+
+  ![scatter plot with hover tool](https://github.com/Nishibsatheesh/Content-based-recommendation-system/blob/main/visualizations/scatter%20plot%20with%20hover%20tool.png?raw=true)
+
    
 
