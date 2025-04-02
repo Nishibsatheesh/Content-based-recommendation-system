@@ -5,13 +5,13 @@ This project is a Content-Based Cosmetics Recommendation System that suggests be
 
 ## Features
 
-Content-Based Filtering: Recommends products based on ingredient similarity.
+**Content-Based Filtering:** Recommends products based on ingredient similarity.
 
-Ingredient Visualization: Uses t-SNE to project high-dimensional ingredient data into a 2D space.
+**Ingredient Visualization:** Uses t-SNE to project high-dimensional ingredient data into a 2D space.
 
-Interactive Visualizations: Built with Bokeh for dynamic and insightful visual representations.
+**Interactive Visualizations:** Built with Bokeh for dynamic and insightful visual representations.
 
-Data Processing & Analysis: Utilizes Pandas, NumPy, and Scikit-learn for data handling and machine learning.
+**Data Processing & Analysis:** Utilizes Pandas, NumPy, and Scikit-learn for data handling and machine learning.
 
 ## Technologies Used
 
