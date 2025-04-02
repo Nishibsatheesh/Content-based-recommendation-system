@@ -1,9 +1,9 @@
 # Content-based-recommendation-system
-Overview
+## Overview
 
 This project is a Content-Based Cosmetics Recommendation System that suggests beauty products based on ingredient analysis. The system utilizes t-SNE (t-Distributed Stochastic Neighbor Embedding) for ingredient visualization and Bokeh plots to present interactive data visualizations.
 
-Features
+## Features
 
 Content-Based Filtering: Recommends products based on ingredient similarity.
 
@@ -13,7 +13,7 @@ Interactive Visualizations: Built with Bokeh for dynamic and insightful visual r
 
 Data Processing & Analysis: Utilizes Pandas, NumPy, and Scikit-learn for data handling and machine learning.
 
-Technologies Used
+## Technologies Used
 
 Python
 
